@@ -1,6 +1,6 @@
 # Training three State of the Art Models- BERT, GPT, ViT using common transformer module
 
-## Partner from ERAv1- Madhur Prakash Garg
+## Partner from ERAv1- Rashi Agarwal
 
 ## Logs from BERT - run for 100 steps
 
